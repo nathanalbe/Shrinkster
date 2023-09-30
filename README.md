@@ -2,7 +2,7 @@
 ## Description
 This app is a redircting url web application similar to Bitly.
 
-| <img src="Videos/Register flow.gif" width="200" /> |
+| <img src="Media/Url-screenshot.png" width="200" /> |
 | - |
 | Preview |
 
