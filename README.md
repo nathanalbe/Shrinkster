@@ -3,7 +3,7 @@
 This app is a redircting url web application similar to Bitly.
 
 | <img src="Videos/Register flow.gif" width="200" /> |
-| - | - | - |
+| - |
 | Register flow |
 
 ## Functionalities implemented
